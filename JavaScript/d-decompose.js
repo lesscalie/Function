@@ -16,6 +16,7 @@ const merge = (
   return array;
 };
 
+
 const section = (
   // Splits string by the first occurrence of separator
   s, // string
